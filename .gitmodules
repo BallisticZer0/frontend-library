@@ -1,0 +1,3 @@
+[submodule "tagged-dom"]
+	path = tagged-dom
+	url = https://github.com/cedeber/tagged-dom.git
