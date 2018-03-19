@@ -18,6 +18,10 @@
         "no-unused-vars": "off",
         "constructor-super": "warn",
         "valid-typeof": "warn",
-        "valid-jsdoc": ["warn", {"requireParamDescription": false, "requireReturnDescription": false, "requireReturn": false}]
+        "valid-jsdoc": ["warn", {
+            "requireParamDescription": false,
+            "requireReturnDescription": false,
+            "requireReturn": false
+        }]
     }
 }
