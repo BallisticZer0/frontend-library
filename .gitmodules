@@ -1,3 +1,30 @@
 [submodule "tagged-dom"]
 	path = tagged-dom
 	url = https://github.com/cedeber/tagged-dom.git
+[submodule "devtools-taggr"]
+	path = devtools-taggr
+	url = https://github.com/cedeber/devtools-taggr.git
+[submodule "vertical-state"]
+	path = vertical-state
+	url = https://github.com/cedeber/vertical-state.git
+[submodule "service-worker"]
+	path = service-worker
+	url = https://github.com/cedeber/service-worker.git
+[submodule "lorem-ipsum"]
+	path = lorem-ipsum
+	url = https://cedeber@github.com/cedeber/lorem-ipsum.git
+[submodule "debounce-throttle"]
+	path = debounce-throttle
+	url = https://github.com/cedeber/debounce-throttle.git
+[submodule "event-emitter"]
+	path = event-emitter
+	url = https://github.com/cedeber/event-emitter.git
+[submodule "cascade-scroller"]
+	path = cascade-scroller
+	url = https://cedeber@github.com/cedeber/cascade-scroller.git
+[submodule "fork-me"]
+	path = fork-me
+	url = https://github.com/cedeber/fork-me.git
+[submodule "brightness-worker"]
+	path = brightness-worker
+	url = https://cedeber@github.com/cedeber/brightness-worker.git
