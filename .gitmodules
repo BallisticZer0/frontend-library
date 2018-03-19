@@ -28,3 +28,6 @@
 [submodule "brightness-worker"]
 	path = brightness-worker
 	url = https://cedeber@github.com/cedeber/brightness-worker.git
+[submodule "scroll-into-viewport"]
+	path = scroll-into-viewport
+	url = https://github.com/cedeber/scroll-into-viewport.git
