@@ -26,7 +26,7 @@ class Logo extends HTMLElement {
             <a href="https://cedeber.fr">${logo}</a>
         `;
 
-        this.shadow.appendChild(html);
+        html.appendTo(this.shadow);
     }
 }
 
