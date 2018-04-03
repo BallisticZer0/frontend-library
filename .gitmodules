@@ -31,3 +31,12 @@
 [submodule "scroll-into-viewport"]
 	path = scroll-into-viewport
 	url = https://github.com/cedeber/scroll-into-viewport.git
+[submodule "sticky-slot"]
+	path = sticky-slot
+	url = https://github.com/cedeber/sticky-slot.git
+[submodule "hash-router"]
+	path = hash-router
+	url = https://github.com/cedeber/hash-router.git
+[submodule "tiny-helpers"]
+	path = tiny-helpers
+	url = https://github.com/cedeber/tiny-helpers.git
