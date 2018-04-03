@@ -13,9 +13,6 @@
 [submodule "lorem-ipsum"]
 	path = lorem-ipsum
 	url = https://cedeber@github.com/cedeber/lorem-ipsum.git
-[submodule "debounce-throttle"]
-	path = debounce-throttle
-	url = https://github.com/cedeber/debounce-throttle.git
 [submodule "event-emitter"]
 	path = event-emitter
 	url = https://github.com/cedeber/event-emitter.git
