@@ -43,3 +43,6 @@
 [submodule "constant-enums"]
 	path = constant-enums
 	url = https://github.com/cedeber/constant-enums.git
+[submodule "proxy-storage"]
+	path = proxy-storage
+	url = https://github.com/cedeber/proxy-storage.git
