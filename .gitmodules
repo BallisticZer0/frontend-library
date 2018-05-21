@@ -12,19 +12,19 @@
 	url = https://github.com/cedeber/service-worker.git
 [submodule "lorem-ipsum"]
 	path = lorem-ipsum
-	url = https://cedeber@github.com/cedeber/lorem-ipsum.git
+	url = https://github.com/cedeber/lorem-ipsum.git
 [submodule "event-emitter"]
 	path = event-emitter
 	url = https://github.com/cedeber/event-emitter.git
 [submodule "cascade-scroller"]
 	path = cascade-scroller
-	url = https://cedeber@github.com/cedeber/cascade-scroller.git
+	url = https://github.com/cedeber/cascade-scroller.git
 [submodule "fork-me"]
 	path = fork-me
 	url = https://github.com/cedeber/fork-me.git
 [submodule "brightness-worker"]
 	path = brightness-worker
-	url = https://cedeber@github.com/cedeber/brightness-worker.git
+	url = https://github.com/cedeber/brightness-worker.git
 [submodule "scroll-into-viewport"]
 	path = scroll-into-viewport
 	url = https://github.com/cedeber/scroll-into-viewport.git
