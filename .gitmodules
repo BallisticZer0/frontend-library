@@ -46,3 +46,6 @@
 [submodule "proxy-storage"]
 	path = proxy-storage
 	url = https://github.com/cedeber/proxy-storage.git
+[submodule "dynamic-styles"]
+	path = dynamic-styles
+	url = https://github.com/cedeber/dynamic-styles.git
