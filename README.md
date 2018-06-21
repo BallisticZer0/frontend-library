@@ -15,6 +15,12 @@ Web Storage with Cookie fallback via a Proxy.
 [![NPM](https://img.shields.io/npm/v/@cedeber/proxy-storage.svg)](https://www.npmjs.com/package/@cedeber/proxy-storage)
 [![NPM](https://img.shields.io/github/last-commit/cedeber/proxy-storage.svg)](https://github.com/cedeber/proxy-storage)
 
+### Scroll Into Viewport
+Scroll to any Element to make it visible into the viewport.
+
+[![NPM](https://img.shields.io/npm/v/@cedeber/scroll-into-viewport.svg)](https://www.npmjs.com/package/@cedeber/scroll-into-viewport)
+[![NPM](https://img.shields.io/github/last-commit/cedeber/scroll-into-viewport.svg)](https://github.com/cedeber/scroll-into-viewport)
+
 ### Vertical State
 Know where any Element is verticaly positionned in the page compared to the viewport.
 
