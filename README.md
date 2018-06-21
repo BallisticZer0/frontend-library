@@ -1,4 +1,7 @@
 # Frontend Library
+Open Source Web Components, Tools & Helpers Library.
+
+https://www.cedeber.fr
 
 ### Constant Enums
 Simulate an Enum data type based on `Proxy` and `Symbol`
