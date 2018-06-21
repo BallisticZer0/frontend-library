@@ -1,27 +1,30 @@
 {
-    "env": {
-        "browser": true,
-        "es6": true,
-        "worker": true,
-        "serviceworker": true
-    },
-    "parserOptions": {
-        "sourceType": "module",
-        "ecmaVersion": 2018
-    },
-    "extends": "eslint:recommended",
-    "rules": {
-        "no-const-assign": "warn",
-        "no-this-before-super": "warn",
-        "no-undef": "warn",
-        "no-unreachable": "warn",
-        "no-unused-vars": "off",
-        "constructor-super": "warn",
-        "valid-typeof": "warn",
-        "valid-jsdoc": ["warn", {
-            "requireParamDescription": false,
-            "requireReturnDescription": false,
-            "requireReturn": false
-        }]
-    }
+  "env": {
+    "browser": true,
+    "es6": true,
+    "worker": true,
+    "serviceworker": true
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2018
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-const-assign": "warn",
+    "no-this-before-super": "warn",
+    "no-undef": "warn",
+    "no-unreachable": "warn",
+    "no-unused-vars": "off",
+    "constructor-super": "warn",
+    "valid-typeof": "warn",
+    "valid-jsdoc": [
+      "warn",
+      {
+        "requireParamDescription": false,
+        "requireReturnDescription": false,
+        "requireReturn": false
+      }
+    ]
+  }
 }
