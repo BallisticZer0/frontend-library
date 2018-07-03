@@ -34,9 +34,9 @@
 [submodule "hash-router"]
 	path = hash-router
 	url = https://github.com/cedeber/hash-router.git
-[submodule "tiny-helpers"]
-	path = tiny-helpers
-	url = https://github.com/cedeber/tiny-helpers.git
+[submodule "tiny-tools"]
+	path = tiny-tools
+	url = https://github.com/cedeber/tiny-tools.git
 [submodule "page-snap"]
 	path = page-snap
 	url = https://github.com/cedeber/page-snap.git
