@@ -49,3 +49,6 @@
 [submodule "dynamic-styles"]
 	path = dynamic-styles
 	url = https://github.com/cedeber/dynamic-styles.git
+[submodule "async-loader"]
+	path = async-loader
+	url = https://github.com/cedeber/async-loader.git
