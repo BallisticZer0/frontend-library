@@ -1,5 +1,6 @@
 # Frontend Library
-Open Source Web Components, Tools & Helpers Library.
+Open Source Web Components, Tools & Workers Library.
+Meta Package.
 https://www.cedeber.fr
 
 ## Support
