@@ -1,0 +1,19 @@
+{
+  "name": "@cedeber/proxy-storage",
+  "version": "3.1.1",
+  "description": "Web Storage with Cookie fallback via a Proxy",
+  "main": "proxy-storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedeber/proxy-storage.git"
+  },
+  "author": "Cédric Eberhardt <design@cedeber.fr> (https://www.cedeber.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedeber/proxy-storage/issues"
+  },
+  "homepage": "https://github.com/cedeber/proxy-storage#readme"
+}
